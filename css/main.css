@@ -1,0 +1,41 @@
+header {
+	background-color: #EEBB56;
+
+}
+
+
+body {
+  font-family: "Roboto", sans-serif;
+  
+}
+
+header p {
+	margin-top: 5px;
+}
+
+header h1 {
+  margin-bottom: 0;
+  line-height: 1;
+}
+
+.box {
+	border: 1px solid #C6C6C6;
+	border-radius: 0.50% ;
+	margin-bottom: 20px;
+}
+
+.contenido{
+	padding: 15px;
+}
+
+.contenido p {
+	margin-top: 5px;
+}
+
+.contenido h2 {
+	margin-bottom: 0px;
+}
+
+.imagen {
+	width: 100%;
+}
